@@ -15,5 +15,4 @@ I build clean, scalable, and user-friendly cross-platform mobile apps.
 - Open to collaboration and interesting projects
 
 ## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn]www.linkedin.com/in/htet-myat-maung-263232k)
+- LinkedIn: www.linkedin.com/in/htet-myat-maung-263232k
