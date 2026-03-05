@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Htet Myat Maung
 
-<!--
-**Htet-Myat-Maung05/Htet-Myat-Maung05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **React Native Developer** based in **Myanmar (GMT+6:30)**.  
+I build clean, scalable, and user-friendly cross-platform mobile apps.
 
-Here are some ideas to get you started:
+## 🔧 Tech & Tools
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React Native
+- **Mobile:** Android, iOS
+- **Tools:** Git, VS Code, Firebase, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- Passionate about crafting seamless mobile experiences
+- Always learning new technologies
+- Open to collaboration and interesting projects
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn]www.linkedin.com/in/htet-myat-maung-263232k)
